@@ -6,6 +6,7 @@ export default function Header() {
   return (
     <Navbar bg="Success" variant="dark" expand="lg">
       <Container>
+        <h1>hii</h1>
         <Navbar.Brand href="#home" className="text-white fs-2">Furni.</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
