@@ -7,15 +7,8 @@ export default function Header() {
     <Navbar bg="Success" variant="dark" expand="lg">
       <Container>
         <h1>hii</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi
-          recusandae repellendus, cumque sequi sapiente accusamus explicabo
-          expedita odit vitae at quibusdam, mollitia voluptate autem eum id
-          nihil labore ducimus possimus?
-        </p>
-        <Navbar.Brand href="#home" className="text-white fs-2">
-          Furni.
-        </Navbar.Brand>
+        <h2>hello</h2>
+        <Navbar.Brand href="#home" className="text-white fs-2">Furni.</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
