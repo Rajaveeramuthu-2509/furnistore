@@ -8,6 +8,7 @@ export default function Header() {
       <Container>
         <h1>hii</h1>
         <h2>hello</h2>
+        <h3>hii hello</h3>
         <Navbar.Brand href="#home" className="text-white fs-2">Furni.</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
